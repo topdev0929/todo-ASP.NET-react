@@ -1,0 +1,2 @@
+C:\Users\ale.tiro\source\repos\TodoList\todolist.client\obj\Debug\todolist.client.esproj.CoreCompileInputs.cache
+D:\Work\Practice\TodoList 3\todolist.client\obj\Debug\todolist.client.esproj.CoreCompileInputs.cache
